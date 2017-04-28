@@ -10,7 +10,7 @@ More information can be found at the [official site](http://codeigniter.com).
 
 This repository holds the pre-alpha code for CodeIgniter 4 only. 
 Version 4 is a complete rewrite to bring the quality and the code into a more modern version, 
-while still keeping as many of the things intact that has made people love the framework over the years. 
+while still keeping as many of the things intact that made people love the framework over the years. 
 
 **This is pre-release code and should not be used in production sites.**
 
@@ -18,7 +18,7 @@ More information about the plans for version 4 can be found in [the announcement
 
 ### Documentation
 
-The current documentation can be found [here](https://bcit-ci.github.io/CodeIgniter4/). As with the rest of the framwork, it is currently a work in progress, and will see changes over time to structure, explanations, etc.
+The current documentation can be found [here](https://bcit-ci.github.io/CodeIgniter4/). As with the rest of the framework, it is currently a work in progress, and will see changes over time to structure, explanations, etc.
 
 ## Important Change with index.php
 
